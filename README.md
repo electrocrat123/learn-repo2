@@ -2,4 +2,3 @@
 hi bob
 
 
-hi mowa
